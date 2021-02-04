@@ -124,7 +124,8 @@ Deberías ver algo parecido a estas líneas:
     modified:   README.md
 
   Untracked files:
-    (use "git add <file>..." to include in what will be committed)
+cd
+    (use "git add <filcde>..." to include in what will be committed)
 
     archivo-ejemplo.js
 
